@@ -1,0 +1,85 @@
+/* #boxes {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#btns #polymorping{
+    padding: 20px;
+    background: white;
+    margin-bottom: 20px;
+}
+
+#btns button #polymorphing{
+    background: white;
+    padding: 5px 10px;
+    border: 0;
+}
+
+#btns .fa{
+    font-size: 30px;
+}
+
+#btns .fa-play-circle {
+    color: green;
+}
+
+#btns .fa-pause-circle {
+    color: red;
+}
+
+.box {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+} */
+
+/* body, #btns{
+    background-color: #36393f
+}
+
+svg {
+    position: absolute;
+    fill: #7289da;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+:not(svg), :not(foreignObject) > svg {
+    transform-origin: 50% 50%;
+} */
+* {
+    background-color: #36393f;
+}
+
+.follow-path {
+    position: absolute;
+    top: -9px;
+    left: -9px;
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+}
